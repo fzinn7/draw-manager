@@ -29,6 +29,7 @@ Estruturas de repetição
 Condicionais
 Listas
 Funções
+
 📷 Demonstração
 
 ![Demonstração](sorteio/demo.gif)
