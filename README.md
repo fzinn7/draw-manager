@@ -21,8 +21,9 @@ Sistema simples de sorteio desenvolvido em Python, permitindo gerenciar particip
 python nome_do_arquivo.py
 
 💻 Tecnologias utilizadas
-Python
-Biblioteca random
+
+- Python
+- Biblioteca random
 
 📚 Objetivo do projeto
 
