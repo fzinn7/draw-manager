@@ -29,10 +29,10 @@ python nome_do_arquivo.py
 
 Este projeto foi desenvolvido para fins acadêmicos, com o intuito de reforçar conceitos básicos de programação, como:
 
-Estruturas de repetição
-Condicionais
-Listas
-Funções
+- Estruturas de repetição
+- Condicionais
+- Listas
+- Funções
 
 ✍️ Autor
 
