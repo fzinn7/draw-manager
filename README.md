@@ -23,6 +23,7 @@ python nome_do_arquivo.py
 💻 Tecnologias utilizadas
 Python
 Biblioteca random
+
 📚 Objetivo do projeto
 
 Este projeto foi desenvolvido para fins acadêmicos, com o intuito de reforçar conceitos básicos de programação, como:
