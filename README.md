@@ -1,6 +1,8 @@
 🎲 Sistema de Sorteio
 
-Este é um projeto simples de sistema de sorteio desenvolvido em Python, com o objetivo de praticar lógica de programação e manipulação de listas.
+Sistema simples de sorteio desenvolvido em Python, permitindo gerenciar participantes e realizar sorteios de forma prática.
+
+![Demonstração](sorteio/demo.gif)
 
 📌 Funcionalidades
 
@@ -29,10 +31,6 @@ Estruturas de repetição
 Condicionais
 Listas
 Funções
-
-📷 Demonstração
-
-![Demonstração](sorteio/demo.gif)
 
 ✍️ Autor
 
