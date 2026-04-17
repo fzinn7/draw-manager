@@ -31,7 +31,7 @@ Listas
 Funções
 📷 Demonstração
 
-![Demonstração do sistema](demo.gif)
+![Demonstração](sorteio/demo.gif)
 
 ✍️ Autor
 
