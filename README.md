@@ -13,10 +13,10 @@ Sistema simples de sorteio desenvolvido em Python, permitindo gerenciar particip
 
 🚀 Como executar o projeto
 
--Certifique-se de ter o Python instalado em sua máquina
--Clone este repositório ou baixe os arquivos
--Abra o terminal na pasta do projeto
--Execute o arquivo principal:
+- Certifique-se de ter o Python instalado em sua máquina
+- Clone este repositório ou baixe os arquivos
+- Abra o terminal na pasta do projeto
+- Execute o arquivo principal:
 
 python nome_do_arquivo.py
 
